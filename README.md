@@ -2,7 +2,7 @@
 
 A simple chessboard editor that functions entirely without the Internet. The application runs smoothly on computers, mobile phones, and iPads.
 
-Click [here](https://RayChien01.github.io/chessboard-editor/) to laungh the github page.
+Click [here](https://RayChien01.github.io/chessboard-editor/) to launch the Github page.
 
 <img width="2876" height="1635" alt="image" src="https://github.com/user-attachments/assets/64d0fe47-cb4f-48e0-b298-12b1d2ea95f1" />
 
