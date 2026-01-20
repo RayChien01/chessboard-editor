@@ -1,0 +1,1 @@
+This project uses [Chessboard.js](https://chessboardjs.com/) created by Chris Oakman, released under the MIT License.
