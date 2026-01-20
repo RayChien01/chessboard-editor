@@ -53,15 +53,15 @@
   left: 2px;
 }
 
-
-img[src*="bP.png"], img[src*="bK.png"], img[src*="bQ.png"],
-img[src*="bB.png"], img[src*="bN.png"], img[src*="bR.png"],
-img[src*="wP.png"], img[src*="wK.png"], img[src*="wQ.png"],
-img[src*="wB.png"], img[src*="wN.png"], img[src*="wR.png"] {
-
+.piece-417db {
   filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.9));
-
   transition: filter 0.2s ease;
+  cursor: grab;
+}
+
+.piece-417db:active, 
+img.piece-417db[style*="position: absolute"] {
+  cursor: grabbing;
 }
 
 
